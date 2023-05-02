@@ -12,6 +12,7 @@ app.get('/homeCard',(red,res)=>{
     res.send(cardData)
 })
 
+
 app.listen(port,()=>{
     console.log('this server is running on port',{port})
 })
