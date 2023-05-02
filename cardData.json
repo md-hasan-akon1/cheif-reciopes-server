@@ -37,6 +37,42 @@
       "ingredients": ["beef sirloin", "mushrooms", "onion", "sour cream", "beef broth"],
       "cookingMethod": "1. Cut beef into thin strips. 2. In a pan, cook beef until browned. 3. Add mushrooms and onion and cook until tender. 4. Stir in sour cream and beef broth. 5. Simmer for 10 minutes. 6. Serve over egg noodles.",
       "rating": 4.7
-    }
+    },
+    {
+        "id": 4,
+        "categoryId": 1,
+        "chefPicture": "https://example.com/chef4.jpg",
+        "chefName": "Sarah Kim",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 20,
+        "likes": 300,
+        "recipeName": "Beef and Broccoli Stir-Fry",
+        "ingredients": ["beef sirloin", "broccoli", "soy sauce", "oyster sauce", "cornstarch"],
+        "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
+      },
+      {
+        "id": 5,
+        "categoryId": 1,
+        "chefPicture": "https://example.com/chef4.jpg",
+        "chefName": "Sarah Kim",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 20,
+        "likes": 300,
+        "recipeName": "Beef and Broccoli Stir-Fry",
+        "ingredients": ["beef sirloin", "broccoli", "soy sauce", "oyster sauce", "cornstarch"],
+        "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
+      },
+      {
+        "id": 6,
+        "categoryId": 1,
+        "chefPicture": "https://example.com/chef4.jpg",
+        "chefName": "Sarah Kim",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 20,
+        "likes": 300,
+        "recipeName": "Beef and Broccoli Stir-Fry",
+        "ingredients": ["beef sirloin", "broccoli", "soy sauce", "oyster sauce", "cornstarch"],
+        "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
+      }
    
 ]
