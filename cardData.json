@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "categoryId": 3,
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 50,
+      "likes": 1000,
+      "recipeName": "Spaghetti Carbonara",
+      "ingredients": ["spaghetti", "pancetta", "egg yolks", "parmesan cheese", "black pepper"],
+      "cookingMethod": "1. Cook spaghetti in a large pot of salted boiling water. 2. In a pan, cook pancetta until crispy. 3. In a bowl, whisk egg yolks, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove pan from heat and add egg mixture. 6. Toss until sauce thickens.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "chefPicture": "https://example.com/chef2.jpg",
+      "chefName": "Mary Johnson",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 30,
+      "likes": 500,
+      "recipeName": "Roasted Chicken with Vegetables",
+      "ingredients": ["chicken", "potatoes", "carrots", "onions", "garlic"],
+      "cookingMethod": "1. Preheat oven to 425°F. 2. Place chicken, potatoes, carrots, onions, and garlic in a roasting pan. 3. Drizzle with olive oil and sprinkle with salt and pepper. 4. Roast for 1 hour or until chicken is cooked through and vegetables are tender.",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "chefPicture": "https://example.com/chef3.jpg",
+      "chefName": "David Lee",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 70,
+      "likes": 1200,
+      "recipeName": "Beef Stroganoff",
+      "ingredients": ["beef sirloin", "mushrooms", "onion", "sour cream", "beef broth"],
+      "cookingMethod": "1. Cut beef into thin strips. 2. In a pan, cook beef until browned. 3. Add mushrooms and onion and cook until tender. 4. Stir in sour cream and beef broth. 5. Simmer for 10 minutes. 6. Serve over egg noodles.",
+      "rating": 4.7
+    }
+   
+]

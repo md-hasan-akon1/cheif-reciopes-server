@@ -6,7 +6,11 @@ app.use(cors())
 app.get('/',(req,res)=>{
     res.send('Hello world')
 })
+const cardData=require('./cardData.json');
 
+app.get('/homeCard',(red,res)=>{
+    res.send(cardData)
+})
 
 app.listen(port,()=>{
     console.log('this server is running on port',{port})
