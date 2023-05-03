@@ -10,18 +10,21 @@
     "cardDetails": [{
       "id": 1,
         "recipeName": "Spaghetti Carbonara",
+        "img":"https://i.ibb.co/JCH1wXG/Well-Being-Eat-Well-Cover-Image-1001x667-96-800x533.png",
         "ingredients": "1. spaghetti 2. pancetta 3. egg yolks 4. parmesan cheese 5. black pepper",
         "cookingMethod": "1. Cook spaghetti in a large pot of salted boiling water. 2. In a pan, cook pancetta until crispy. 3. In a bowl, whisk egg yolks, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove pan from heat and add egg mixture. 6. Toss until sauce thickens.",
         "rating": 4.8
       },
       { "id": 2,
         "recipeName": "Spaghetti Carbonara",
+        "img":"https://i.ibb.co/JCH1wXG/Well-Being-Eat-Well-Cover-Image-1001x667-96-800x533.png",
         "ingredients": "1. spaghetti 2. pancetta 3. egg yolks 4. parmesan cheese 5. black pepper",
         "cookingMethod": "1. Cook spaghetti in a large pot of salted boiling water. 2. In a pan, cook pancetta until crispy. 3. In a bowl, whisk egg yolks, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove pan from heat and add egg mixture. 6. Toss until sauce thickens.",
         "rating": 4.8
       },
       {  "id": 3,
         "recipeName": "Spaghetti Carbonara",
+        "img":"https://i.ibb.co/JCH1wXG/Well-Being-Eat-Well-Cover-Image-1001x667-96-800x533.png",
         "ingredients": "1. spaghetti 2. pancetta 3. egg yolks 4. parmesan cheese 5. black pepper",
         "cookingMethod": "1. Cook spaghetti in a large pot of salted boiling water. 2. In a pan, cook pancetta until crispy. 3. In a bowl, whisk egg yolks, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove pan from heat and add egg mixture. 6. Toss until sauce thickens.",
         "rating": 4.8
@@ -39,6 +42,7 @@
     "likes": 500,
     "description":"food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
     "cardDetails": [{"id": 1,
+    "img":"https://i.ibb.co/Sysvtcv/sheet-pan-chicken-and-roasted-harvest-vegetables-original-sq.jpg",
         "recipeName": "Roasted Chicken with Vegetables",
         "ingredients": "1.chicken  2. potatoes 3. carrots 4. onions 5. garlic",
         "cookingMethod": "1. Preheat oven to 425°F. 2. Place chicken, potatoes, carrots, onions, and garlic in a roasting pan. 3. Drizzle with olive oil and sprinkle with salt and pepper. 4. Roast for 1 hour or until chicken is cooked through and vegetables are tender.",
@@ -46,12 +50,14 @@
       },
       { "id": 2,
         "recipeName": "Roasted Chicken with Vegetables",
+        "img":"https://i.ibb.co/Sysvtcv/sheet-pan-chicken-and-roasted-harvest-vegetables-original-sq.jpg",
         "ingredients": "1.chicken  2. potatoes 3. carrots 4. onions 5. garlic",
         "cookingMethod": "1. Preheat oven to 425°F. 2. Place chicken, potatoes, carrots, onions, and garlic in a roasting pan. 3. Drizzle with olive oil and sprinkle with salt and pepper. 4. Roast for 1 hour or until chicken is cooked through and vegetables are tender.",
         "rating": 4.5
       },
       {  "id": 3,
         "recipeName": "Roasted Chicken with Vegetables",
+        "img":"https://i.ibb.co/Sysvtcv/sheet-pan-chicken-and-roasted-harvest-vegetables-original-sq.jpg",
         "ingredients": "1.chicken  2. potatoes 3. carrots 4. onions 5. garlic",
         "cookingMethod": "1. Preheat oven to 425°F. 2. Place chicken, potatoes, carrots, onions, and garlic in a roasting pan. 3. Drizzle with olive oil and sprinkle with salt and pepper. 4. Roast for 1 hour or until chicken is cooked through and vegetables are tender.",
         "rating": 4.5
@@ -71,18 +77,21 @@
     "description":"food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
     "cardDetails": [{"id": 1,
         "recipeName": "Beef Stroganoff",
+        "img":"https://i.ibb.co/jhkVrdn/Beef-Stroganoff-Heros-SQ-680.jpg",
         "ingredients": "1.beef sirloin 2.mushrooms 3.onion 4.sour cream 5.beef broth",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a pan, cook beef until browned. 3. Add mushrooms and onion and cook until tender. 4. Stir in sour cream and beef broth. 5. Simmer for 10 minutes. 6. Serve over egg noodles.",
         "rating": 4.7
       },
       { "id": 2,
         "recipeName": "Beef Stroganoff",
+        "img":"https://i.ibb.co/jhkVrdn/Beef-Stroganoff-Heros-SQ-680.jpg",
         "ingredients": "1.beef sirloin 2.mushrooms 3.onion 4.sour cream 5.beef broth",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a pan, cook beef until browned. 3. Add mushrooms and onion and cook until tender. 4. Stir in sour cream and beef broth. 5. Simmer for 10 minutes. 6. Serve over egg noodles.",
         "rating": 4.7
       },
       {  "id": 3,
         "recipeName": "Beef Stroganoff",
+        "img":"https://i.ibb.co/jhkVrdn/Beef-Stroganoff-Heros-SQ-680.jpg",
         "ingredients": "1.beef sirloin 2.mushrooms 3.onion 4.sour cream 5.beef broth",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a pan, cook beef until browned. 3. Add mushrooms and onion and cook until tender. 4. Stir in sour cream and beef broth. 5. Simmer for 10 minutes. 6. Serve over egg noodles.",
         "rating": 4.7
@@ -102,16 +111,19 @@
     "description":"food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
     "cardDetails": [{"id": 1,
         "recipeName": "Beef and Broccoli Stir-Fry",
+        "img":"https://i.ibb.co/RpZKKDy/beef-and-broccoli-recipe.jpg",
         "ingredients": "1.beef sirloin 2.broccoli 3.soy sauce 4.oyster sauce 5.cornstarch",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
       },
       { "id": 2,
         "recipeName": "Beef and Broccoli Stir-Fry",
+        "img":"https://i.ibb.co/RpZKKDy/beef-and-broccoli-recipe.jpg",
         "ingredients": "1.beef sirloin 2.broccoli 3.soy sauce 4.oyster sauce 5.cornstarch",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
       },
       {  "id": 3,
         "recipeName": "Beef and Broccoli Stir-Fry",
+        "img":"https://i.ibb.co/RpZKKDy/beef-and-broccoli-recipe.jpg",
         "ingredients": "1.beef sirloin 2.broccoli 3.soy sauce 4.oyster sauce 5.cornstarch",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
       }
@@ -129,17 +141,20 @@
     "likes": 300,
     "description":"food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
     "cardDetails": [{"id": 1,
-        "recipeName": "Beef and Broccoli Stir-Fry",
+        "recipeName": "Fish Fry with rice",
+        "img":"https://i.ibb.co/HCp4qSX/shutterstock-1753366481.png",
         "ingredients": "1.beef sirloin 2.broccoli 3.soy sauce 4.oyster sauce 5.cornstarch",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
       },
       { "id": 2,
-        "recipeName": "Beef and Broccoli Stir-Fry",
+        "recipeName": "Fish Fry with rice",
+        "img":"https://i.ibb.co/HCp4qSX/shutterstock-1753366481.png",
         "ingredients": "1.beef sirloin 2.broccoli 3.soy sauce 4.oyster sauce 5.cornstarch",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
       },
       {  "id": 3,
-        "recipeName": "Beef and Broccoli Stir-Fry",
+        "recipeName": "Fish Fry with rice",
+        "img":"https://i.ibb.co/HCp4qSX/shutterstock-1753366481.png",
         "ingredients": "1.beef sirloin 2.broccoli 3.soy sauce 4.oyster sauce 5.cornstarch",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
       }
@@ -158,19 +173,22 @@
     "description":"food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
     "cardDetails": [{
         "id": 1,
-        "recipeName": "Beef and Broccoli Stir-Fry",
+        "recipeName": "Beef kalabhuna ",
+        "img":"https://i.ibb.co/xFXYMqK/Beef-Kala-Bhuna-Recipe.jpg",
         "ingredients": "1. beef sirloin 2.broccoli 3.soy sauce 4.oyster sauce 5.cornstarch",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
       },
       {
         "id": 2,
-        "recipeName": "Beef and Broccoli Stir-Fry",
+        "recipeName": "Beef kalabhuna ",
+        "img":"https://i.ibb.co/xFXYMqK/Beef-Kala-Bhuna-Recipe.jpg",
         "ingredients": "1. beef sirloin 2.broccoli 3.soy sauce 4.oyster sauce 5.cornstarch",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
       },
       {
         "id": 3,
-        "recipeName": "Beef and Broccoli Stir-Fry",
+        "recipeName": "Beef kalabhuna ",
+        "img":"https://i.ibb.co/xFXYMqK/Beef-Kala-Bhuna-Recipe.jpg",
         "ingredients": "1. beef sirloin 2.broccoli 3.soy sauce 4.oyster sauce 5.cornstarch",
         "cookingMethod": "1. Cut beef into thin strips. 2. In a bowl, mix soy sauce, oyster sauce, and cornstarch. 3. In a pan, stir-fry beef until browned. 4. Add broccoli and stir-fry until tender"
       }
